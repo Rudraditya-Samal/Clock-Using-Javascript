@@ -1,0 +1,9 @@
+.jumbotron {
+  background-color: rgb(219, 219, 219);
+}
+
+.btn.btn-primary.btn-lg {
+  color: white;
+  background-color: blueviolet;
+  border: 0px;
+}
